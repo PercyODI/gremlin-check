@@ -1,0 +1,11 @@
+C:\Users\Pearse.Hutson\Documents\Personal Projects\gremlin-check\bin\Debug\netcoreapp2.0\gremlin-check.deps.json
+C:\Users\Pearse.Hutson\Documents\Personal Projects\gremlin-check\bin\Debug\netcoreapp2.0\gremlin-check.runtimeconfig.json
+C:\Users\Pearse.Hutson\Documents\Personal Projects\gremlin-check\bin\Debug\netcoreapp2.0\gremlin-check.runtimeconfig.dev.json
+C:\Users\Pearse.Hutson\Documents\Personal Projects\gremlin-check\bin\Debug\netcoreapp2.0\gremlin-check.dll
+C:\Users\Pearse.Hutson\Documents\Personal Projects\gremlin-check\bin\Debug\netcoreapp2.0\gremlin-check.pdb
+C:\Users\Pearse.Hutson\Documents\Personal Projects\gremlin-check\obj\Debug\netcoreapp2.0\gremlin-check.csprojAssemblyReference.cache
+C:\Users\Pearse.Hutson\Documents\Personal Projects\gremlin-check\obj\Debug\netcoreapp2.0\gremlin-check.csproj.CoreCompileInputs.cache
+C:\Users\Pearse.Hutson\Documents\Personal Projects\gremlin-check\obj\Debug\netcoreapp2.0\gremlin-check.AssemblyInfoInputs.cache
+C:\Users\Pearse.Hutson\Documents\Personal Projects\gremlin-check\obj\Debug\netcoreapp2.0\gremlin-check.AssemblyInfo.cs
+C:\Users\Pearse.Hutson\Documents\Personal Projects\gremlin-check\obj\Debug\netcoreapp2.0\gremlin-check.dll
+C:\Users\Pearse.Hutson\Documents\Personal Projects\gremlin-check\obj\Debug\netcoreapp2.0\gremlin-check.pdb
